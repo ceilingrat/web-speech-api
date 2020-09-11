@@ -1,0 +1,2 @@
+language = "nodejs"
+run = "node_modules/local-web-server/bin/cli.js"

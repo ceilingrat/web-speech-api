@@ -1,0 +1,23 @@
+{
+  "name": "web-speech-api",
+  "version": "1.0.0",
+  "description": "A repository for demos illustrating features of the Web Speech API. See [Web_Speech_API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) for more details.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceilingrat/web-speech-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceilingrat/web-speech-api/issues"
+  },
+  "homepage": "https://github.com/ceilingrat/web-speech-api#readme",
+  "dependencies": {
+    "local-web-server": "^4.2.1"
+  }
+}
